@@ -1,0 +1,13 @@
+user_id,name,email,phone,city,signup_date,status
+U001,Aarav Sharma,aarav.sharma@example.com,9876500001,Delhi,2025-01-15,active
+U002,Priya Verma,priya.verma@example.com,9876500002,Mumbai,2025-02-03,active
+U003,Rahul Singh,rahul.singh@example.com,9876500003,Bengaluru,2025-02-20,active
+U004,Sneha Kapoor,sneha.kapoor@example.com,9876500004,Pune,2025-03-11,active
+U005,Vikram Mehta,vikram.mehta@example.com,9876500005,Hyderabad,2025-03-25,inactive
+U006,Neha Gupta,neha.gupta@example.com,9876500006,Chandigarh,2025-04-02,active
+U007,Rohan Malhotra,rohan.m@example.com,9876500007,Jaipur,2025-04-18,active
+U008,Ananya Joshi,ananya.j@example.com,9876500008,Kolkata,2025-05-06,active
+U009,Karan Thakur,karan.t@example.com,9876500009,Dharamshala,2025-05-21,active
+U010,Meera Nair,meera.nair@example.com,9876500010,Chennai,2025-06-10,active
+U011,Aditya Rao,aditya.rao@example.com,9876500011,Bengaluru,2025-06-25,active
+U012,Ishita Sharma,ishita.s@example.com,9876500012,Noida,2025-07-08,active

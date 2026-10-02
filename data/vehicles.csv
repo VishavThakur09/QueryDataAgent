@@ -1,0 +1,9 @@
+vehicle_id,registration_no,vehicle_type,model,color,manufacture_year,driver_id,seating_capacity,status
+V001,KA01AB1234,Sedan,Maruti Suzuki Dzire,White,2022,DRV001,4,active
+V002,MH02CD5678,Hatchback,Hyundai i20,Blue,2023,DRV002,4,active
+V003,DL03EF9012,SUV,Kia Seltos,Black,2021,DRV003,4,active
+V004,UP04GH3456,Sedan,Honda City,Silver,2022,DRV004,4,active
+V005,RJ05JK7890,Hatchback,Tata Altroz,Red,2023,DRV005,4,active
+V006,CH06LM1122,SUV,Mahindra XUV700,White,2024,DRV006,6,active
+V007,WB07NO3344,Sedan,Hyundai Verna,Grey,2021,DRV007,4,maintenance
+V008,TN08PQ5566,Hatchback,Maruti Baleno,Blue,2022,DRV008,4,active

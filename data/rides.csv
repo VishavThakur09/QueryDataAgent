@@ -1,0 +1,21 @@
+ride_id,user_id,vehicle_id,ride_datetime,pickup_location,drop_location,ride_status,distance_km,duration_min,fare
+R001,U001,V001,2026-09-01 08:30,Delhi,Gurugram,completed,14.2,32,286.5
+R002,U002,V002,2026-09-01 10:15,Mumbai,Andheri,completed,8.7,24,198.0
+R003,U003,V003,2026-09-02 09:00,Bengaluru,Whitefield,completed,16.4,38,342.75
+R004,U004,V004,2026-09-02 18:20,Pune,Hinjewadi,completed,12.1,31,267.2
+R005,U005,V005,2026-09-03 11:10,Hyderabad,Banjara Hills,cancelled,0.0,5,75.0
+R006,U006,V006,2026-09-03 07:45,Chandigarh,Mohali,completed,11.8,27,241.5
+R007,U007,V005,2026-09-04 20:10,Jaipur,Malviya Nagar,completed,9.5,22,185.0
+R008,U008,V008,2026-09-05 13:30,Kolkata,Salt Lake,completed,7.9,19,164.25
+R009,U009,V001,2026-09-06 16:45,Dharamshala,McLeod Ganj,completed,6.3,18,152.0
+R010,U010,V003,2026-09-07 21:00,Chennai,T Nagar,completed,13.7,35,310.8
+R011,U011,V002,2026-09-08 08:10,Bengaluru,Electronic City,completed,18.9,42,389.4
+R012,U012,V004,2026-09-08 17:30,Noida,Greater Noida,completed,21.5,48,455.75
+R013,U001,V006,2026-09-09 19:20,Delhi,Airport,completed,24.1,51,512.0
+R014,U003,V007,2026-09-10 14:00,Bengaluru,Indiranagar,cancelled,0.0,7,90.0
+R015,U004,V008,2026-09-11 09:40,Pune,Kothrud,completed,10.4,26,221.3
+R016,U006,V005,2026-09-11 18:50,Chandigarh,Sector 17,completed,8.2,23,176.8
+R017,U007,V003,2026-09-12 12:25,Jaipur,Vaishali Nagar,completed,12.7,29,248.6
+R018,U008,V002,2026-09-13 15:15,Kolkata,Howrah,completed,11.6,34,239.9
+R019,U009,V006,2026-09-14 10:05,Dharamshala,Kangra,completed,28.3,58,625.0
+R020,U010,V001,2026-09-15 22:10,Chennai,Velachery,completed,15.2,40,335.5

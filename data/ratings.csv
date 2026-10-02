@@ -1,0 +1,18 @@
+rating_id,ride_id,user_id,vehicle_id,rating,review,rating_date
+RT001,R001,U001,V001,5,Smooth ride and clean car.,2026-09-01
+RT002,R002,U002,V002,4,"Good ride, slightly delayed pickup.",2026-09-01
+RT003,R003,U003,V003,5,Excellent driver and comfortable vehicle.,2026-09-02
+RT004,R004,U004,V004,4,Good overall experience.,2026-09-02
+RT005,R006,U006,V006,5,Very professional driver.,2026-09-03
+RT006,R007,U007,V005,3,Ride was okay but vehicle was not very clean.,2026-09-04
+RT007,R008,U008,V008,4,Affordable and convenient.,2026-09-05
+RT008,R009,U009,V001,5,Great local driver and safe ride.,2026-09-06
+RT009,R010,U010,V003,4,Comfortable ride.,2026-09-07
+RT010,R011,U011,V002,2,Driver arrived late.,2026-09-08
+RT011,R012,U012,V004,5,Very good experience.,2026-09-08
+RT012,R013,U001,V006,5,Spacious SUV and excellent service.,2026-09-09
+RT013,R015,U004,V008,4,Good ride.,2026-09-11
+RT014,R016,U006,V005,3,Average experience.,2026-09-11
+RT015,R017,U007,V003,5,Driver was excellent.,2026-09-12
+RT016,R018,U008,V002,4,Clean car and smooth ride.,2026-09-13
+RT017,R020,U010,V001,5,Perfect late-night ride.,2026-09-15
